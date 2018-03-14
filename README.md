@@ -1,6 +1,7 @@
 
 32-Bit MIPS CPU (Classic RISC Pipeline)
 ==================
+(Latest update: 2016/07/30)
 
 整体设计
 --------
